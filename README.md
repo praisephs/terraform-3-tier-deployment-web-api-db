@@ -19,7 +19,8 @@ Screenshots of the deployed Azure resources, including the virtual machines, net
 
 Architecture Diagram:
 
-![Architecture Diagram](https://1drv.ms/i/s!AsS5Jkskk6RchU8fyOg1aWb7aiVR?e=gihlBT)
+![Architecture Diagram](https://github.com/praisephs/basic_model/assets/129758959/2ca4c5f1-9c55-49c1-9f6c-4e9cd2be4128)
+
 
 
 ## Project Steps:
